@@ -1,0 +1,26 @@
+a unite.vm plugin for Zend Framework(PHP).
+
+inspired by basyura's unite-rails and oppara's unite-cake
+https://github.com/basyura/unite-rails
+https://github.com/oppara/vim-unite-cake
+
+unite /app
+  :Unite zf/app
+unite /app/controllers
+  :Unite zf/controllers
+unite /app/models
+  :Unite zf/models
+unite /app/views
+  :Unite zf/views
+unite /app/views/helpers
+  :Unite zf/helpers
+unite /app/configs
+  :Unite zf/configs
+unite /app/layouts
+  :Unite zf/layouts
+unite /app/modules
+  :Unite zf/modules
+unite /app/tests
+  :Unite zf/tests
+unite /app/services
+  :Unite zf/services
