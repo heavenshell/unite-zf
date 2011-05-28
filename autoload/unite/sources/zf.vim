@@ -36,7 +36,7 @@ let s:places = [
       \ {'name' : 'plugins'     , 'path' : '/' . s:app . '/plugins'       } ,
       \ {'name' : 'services'    , 'path' : '/' . s:app . '/services'      } ,
       \ {'name' : 'forms'       , 'path' : '/' . s:app . '/forms'         } ,
-      \ {'name' : 'test'        , 'path' : '/tests'                       } ,
+      \ {'name' : 'tests'       , 'path' : '/tests'                       } ,
       \  ]
 
 
